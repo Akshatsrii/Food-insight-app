@@ -2,8 +2,6 @@
 
 # 🛍️ E-Commerce Product Listing Application
 
-![Project Banner](https://via.placeholder.com/1200x300/2563eb/ffffff?text=E-Commerce+Product+Listing+Application)
-
 [![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/CSS3-Modern-1572b6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
