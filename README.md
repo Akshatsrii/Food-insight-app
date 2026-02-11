@@ -119,7 +119,6 @@ graph LR
 
 ### 1. 🏠 Homepage - Product Grid View
 
-![Homepage](./public/5.png)
 
 **Main Features Visible:**
 - Responsive product grid layout
@@ -132,8 +131,6 @@ graph LR
 
 ### 2. 🔍 Search & Filter Interface
 
-![Search and Filter](./public/4.png)
-
 **Filtering Capabilities:**
 - Real-time search with debouncing
 - Category dropdown selection
@@ -145,7 +142,6 @@ graph LR
 
 ### 3. 🛍️ Product Details & Add to Cart
 
-![Product Details](./public/3.png)
 **Product Card Features:**
 - High-quality product images
 - Product title and description
@@ -158,7 +154,6 @@ graph LR
 
 ### 4. 🛒 Shopping Cart Interface
 
-![Shopping Cart](./public/2.png)
 **Cart Functionality:**
 - List of all cart items
 - Product thumbnails
