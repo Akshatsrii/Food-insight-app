@@ -1053,9 +1053,8 @@ const filteredProducts = useMemo(() => {
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img src="https://via.placeholder.com/150/2563eb/ffffff?text=Your+Photo" alt="Developer" style="border-radius: 50%; width: 150px;">
 <br><br>
-<strong>Your Name</strong>
+<strong>Akshat Srivastava</strong>
 <br>
 Full Stack Developer
 </td>
