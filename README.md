@@ -359,6 +359,4 @@ Products are sorted after fetching to:
 ---
 
 
-**Built with ❤️ using React and OpenFoodFacts API**
-
 </div>
