@@ -40,27 +40,6 @@ A modern, responsive web application for exploring and analyzing food products u
 
 ---
 
-## 🏗 Application Architecture
-
-### Component Structure
-
-```
-src/
-├── components/
-│   ├── ProductCard.jsx          # Individual product display card
-│   ├── ProductList.jsx           # Grid layout for products
-│   ├── ProductDetail.jsx         # Detailed product view page
-│   ├── SearchBar.jsx             # Search input component
-│   ├── FilterPanel.jsx           # Category filter & sort controls
-│   └── Navbar.jsx                # Navigation header
-├── services/
-│   └── api.js                    # Centralized API calls
-├── utils/
-│   └── helpers.js                # Utility functions
-├── App.jsx                       # Main application component
-└── main.jsx                      # Application entry point
-```
-
 ### Data Flow Diagram
 
 ```
