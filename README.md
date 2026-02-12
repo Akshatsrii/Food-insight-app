@@ -119,7 +119,8 @@ graph LR
 
 ### 1. 🏠 Homepage - Product Grid View
 
- https://github.com/Akshatsrii/Food-insight-app/blob/main/4.png
+<p align="center"> <img src="https://raw.githubusercontent.com/Akshatsrii/Food-insight-app/main/4.png" alt="Homepage Dashboard Screenshot" width="100%" /> </p>
+
 **Main Features Visible:**
 - Responsive product grid layout
 - Search bar for quick product discovery
@@ -131,6 +132,8 @@ graph LR
 
 ### 2. 🔍 Search & Filter Interface
 
+<p align="center"> <img src="https://raw.githubusercontent.com/Akshatsrii/Food-insight-app/main/5.png" alt="Search and Filter Screenshot" width="100%" /> </p>
+
 **Filtering Capabilities:**
 - Real-time search with debouncing
 - Category dropdown selection
@@ -140,19 +143,9 @@ graph LR
 
 ---
 
-### 3. 🛍️ Product Details & Add to Cart
+### 3. 🛒 Shopping Cart Interface
 
-**Product Card Features:**
-- High-quality product images
-- Product title and description
-- Price with currency formatting
-- Star rating system
-- "Add to Cart" button
-- Stock availability status
-
----
-
-### 4. 🛒 Shopping Cart Interface
+<p align="center"> <img src="https://raw.githubusercontent.com/Akshatsrii/Food-insight-app/main/3.png" alt="Shopping Cart Screenshot" width="100%" /> </p>
 
 **Cart Functionality:**
 - List of all cart items
@@ -164,11 +157,9 @@ graph LR
 
 ---
 
-### 5. 📱 Mobile Responsive View
+### 4. 📱 Mobile Responsive View
 
-<div align="center">
-
-![Mobile View](./public/6.png)
+<p align="center"> <img src="https://raw.githubusercontent.com/Akshatsrii/Food-insight-app/main/6.png" alt="Mobile Responsive Screenshot" width="60%" /> </p>
 
 **Responsive Design Features:**
 - Single column layout
