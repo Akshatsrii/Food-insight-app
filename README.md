@@ -119,7 +119,7 @@ graph LR
 
 ### 1. 🏠 Homepage - Product Grid View
 
-
+ https://github.com/Akshatsrii/Food-insight-app/blob/main/4.png
 **Main Features Visible:**
 - Responsive product grid layout
 - Search bar for quick product discovery
